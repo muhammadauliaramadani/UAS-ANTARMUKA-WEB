@@ -1,0 +1,135 @@
+.frame {
+    background-color: #15181a;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .frame .div {
+    background-color: #15181a;
+    width: 1512px;
+    height: 982px;
+    position: relative;
+  }
+  
+  .frame .hello {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 40px;
+    position: absolute;
+    top: 195px;
+    left: 648px;
+  }
+  
+  .frame .text-wrapper {
+    position: relative;
+    width: 680px;
+    margin-top: -1px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: 76.8px;
+  }
+
+  .frame .p{
+    position: absolute;
+    width: 787px;
+    top: 547px;
+    left: 648px;
+    font-family: "inter-regular",Helvetica;
+    font-weight: 400;
+    color: #999999;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .frame .text-wrapper-2 {
+    position: absolute;
+    top: 439px;
+    left: 648px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color:  var(--blue);
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: 67.2px;
+    white-space: nowrap;
+  }
+  
+  .frame .about-me {
+    position: relative;
+    width: 731px;
+    height: 180px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #999999;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .frame .text-wrapper-3 {
+    position: absolute;
+    width: 196px;
+    top: 652px;
+    left: 1097px;
+    opacity: 0.3;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 36px;
+    white-space: nowrap;
+  }
+  
+  .frame .bio-diri {
+    position: absolute;
+    width: 731px;
+    top: 652px;
+    left: 76px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #999999;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .frame .logo-ig {
+    position: absolute;
+    width: 87px;
+    height: 84px;
+    top: 709px;
+    left: 1084px;
+  }
+  
+  .frame .logo-gmail {
+    position: absolute;
+    width: 87px;
+    height: 84px;
+    top: 701px;
+    left: 1206px;
+  }
+  
+  .frame .left {
+    position: absolute;
+    width: 330px;
+    height: 457px;
+    top: 167px;
+    left: 76px;
+    background-image: url(fotodiri.jpeg);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  .frame .next{
+    font-family:Helvetica;
+    font-size: 50px;
+    color: white;
+  }
+  

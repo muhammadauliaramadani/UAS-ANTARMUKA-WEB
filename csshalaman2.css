@@ -1,0 +1,129 @@
+.frame {
+    background-color: #15181a;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+  
+.frame .div {
+  background-color: #15181a;
+  width: 1512px;
+  height: 982px;
+  position: relative;
+}
+  
+.frame .cill-school{
+  top: 60px;
+  left: 101px;
+  position: absolute;
+  width: 187px;
+  height: 183px;
+}
+  
+.frame .img{
+  top: 61px;
+  left: 847px;
+  position: absolute;
+  width: 187px;
+  height: 183px;
+}
+  
+.frame .cill-school-2{
+  top: 50px;
+  left: 1220px;
+  position: absolute;
+  width: 187px;
+  height: 183px;
+}
+.frame .cill-school-3{
+    top: 50px;
+    left: 474px;
+    position: absolute;
+    width: 187px;
+    height: 183px;
+  }
+  .frame .overlap-group{
+    position: absolute;
+    width: 680px;
+    height: 19px;
+    top: 277px;
+    left: 89px;
+}
+.frame .text-wrapper{
+   position: absolute;
+   width: 215px;
+   top: 0;
+   left: 381px;
+   font-family: "inter-Regular", Helvetica;
+   font-weight: 400;
+   color: #ffffff;
+   font-size: 16px;
+   letter-spacing: 0;
+   line-height: 19.2px;
+}
+.frame .text-wrapper{
+    position: absolute;
+    width: 215px;
+    top: 0;
+    left: 381px;
+    font-family: "inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 19.2px;
+ }
+ .frame .text-wrapper-2{
+    position: absolute;
+    width: 680px;
+    top: 0;
+    left: 0;
+    font-family: "inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 19.2px;
+ }
+ .frame .text-wrapper-3{
+    position: absolute;
+    width: 215px;
+    top: 277px;
+    left: 843px;
+    font-family: "inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 19.2px;
+ }
+ .frame .text-wrapper-4{
+    position: absolute;
+    width: 215px;
+    top: 262px;
+    left: 1232px;
+    font-family: "inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 19.2px;
+ }
+ .frame .nama-muhammad-aulia{
+    position: absolute;
+    width: 1049px;
+    top: 416px;
+    left: 89px;
+    font-family: "inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #999999;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 40px;
+ }
+ .frame .next{
+   font-family:Helvetica;
+   font-size: 50px;
+   color: white;
+ }
