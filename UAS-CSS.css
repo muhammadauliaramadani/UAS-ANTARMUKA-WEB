@@ -1,0 +1,155 @@
+.frame {
+    background-color: #15181a;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .frame .div {
+    background-color: #15181a;
+    width: 1512px;
+    height: 982px;
+    position: relative;
+  }
+  
+  .frame .hello {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 40px;
+    position: absolute;
+    top: 195px;
+    left: 648px;
+  }
+  
+  .frame .text-wrapper {
+    position: relative;
+    width: 680px;
+    margin-top: -1px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: 76.8px;
+  }
+
+  .frame .p{
+    position: absolute;
+    width: 787px;
+    top: 547px;
+    left: 648px;
+    font-family: "inter-regular",Helvetica;
+    font-weight: 400;
+    color: #999999;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  
+  .frame .about-me-tag{
+    position: absolute;
+    top: 439px;
+    left: 648px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color:  var(--blue);
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: 67.2px;
+    white-space: nowrap;
+  }
+  .frame .left {
+    position: absolute;
+    width: 330px;
+    height: 457px;
+    top: 167px;
+    left: 76px;
+    background-image: url(fotodiri.jpeg);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  .frame2 {
+    background-color: #15181a;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+  
+.frame2 .div2{
+  background-color: #15181a;
+  width: 1512px;
+  height: 982px;
+  position: relative;
+}
+ .frame2 .nama-muhammad-aulia2{
+    position: absolute;
+    width: 1049px;
+    top: 416px;
+    left: 89px;
+    font-family: "inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #999999;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 40px;
+ }
+ .frame3 {
+  background-color: #15181a;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+.frame3 .div3 {
+  background-color: #15181a;
+  width: 1512px;
+  height: 982px;
+  position: relative;
+}
+.frame3 .contact-tag{
+  position: absolute;
+  width: 205px;
+  top: 205px;
+  left: 579px;
+  font-family: "inter-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--blue);
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: 89.6px;
+  white-space: nowrap;
+}
+
+.frame3 .logo-ig{
+position: absolute;
+width: 180px;
+height: 187px;
+top: 435px;
+left: 300px;
+}
+
+.frame3 .logo-gmail{
+left: 560px;
+position: absolute;
+width: 153px;
+height: 157px;
+top: 450px;
+}
+.frame3 .logo-fb{
+left: 807px;
+position: absolute;
+width: 153px;
+height: 157px;
+top: 450px;
+}
+
+.frame3 .logo-wa {
+  position: absolute;
+  width: 163px;
+  height: 172px;
+  top: 435px;
+  left: 1044px;
+}
